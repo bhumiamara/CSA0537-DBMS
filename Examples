@@ -1,0 +1,11 @@
+[07/12, 11:56 am]  alter table employee change column emp_name name varchar(10);
+[07/12, 11:56 am]  alter table employee change column emp_name name varchar(10);
+[07/12, 11:56 am] update keerthana set name='anjali'where sno=1;
+[07/12, 11:56 am] : mysql> delete from employee where name='ram';
+[07/12, 11:56 am]  alter table keerthana drop column dept;
+[07/12, 11:56 am] update keerthana set dept='cse'where name='anjali';
+[07/12, 11:56 am]  select*from patient where patiid between 3 and 9;
+[07/12, 11:56 am]  SELECT SUM(salary) FROM employees;
+[07/12, 11:56 am] SELECT COUNT(*) FROM employees;
+[07/12, 11:56 am]  SELECT AVG(age) FROM employees;
+[07/12, 11:56 am] SELECT MIN(salary) FROM employees;
